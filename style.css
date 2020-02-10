@@ -1,5 +1,5 @@
 a {
-  color: rgb(255, 255, 255);
+  color: white;;
   text-decoration: none;
 }
 body{
@@ -16,7 +16,7 @@ nav{
 }
 nav h2{
   padding: 20px 0px 20px 15px;
-  padding: 0;
+  margin: 0;
 }
 nav ul{
   display: flex;
@@ -96,4 +96,7 @@ footer ul {
 }
 h3{
   text-align: center;
+}
+button{
+    margin-left:47%;
 }
